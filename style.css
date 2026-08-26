@@ -1,0 +1,32 @@
+
+body {
+    background-color: lightgray;
+}
+
+p {
+    font-size: 18px;
+}
+li {
+    color: black;
+    background-color: darkslateblue;
+}
+
+#nama-ku {
+    color: red;
+    background-color: darkslateblue;
+    font-size: 30px;
+}
+
+.teks-utama {
+    color: black;
+    background-color: darkslateblue;
+}
+
+.daftar-hobi {
+    font-size: 16px;
+}
+.teks-dua {
+    color:black;
+    background-color: darkslateblue;
+    font-size:medium;
+}
